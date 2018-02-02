@@ -1,0 +1,9 @@
+1.	/share/            #生信总目录  
+2.	├── biosoft        #存放软件以及安装路径  
+3.	├── data           #数据  
+4.	└── workspaces     #用户管理目录 
+
+1.	/share/biosoft/  
+2.	├── app               #软件安装目录  
+3.	├── installation      #存放软件包的目录  
+4.	└── Script            #脚本存放目录  
